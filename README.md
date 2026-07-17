@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/giphy.gif" width="280" alt="It's Me jett main" />
+<img src="img/giphy.gif" width="450" alt="It's Me jett main" />
 
 # Hi👋
 
@@ -53,8 +53,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yofyth&show_icons=true&theme=radical&hide_border=true" alt="yofyth GitHub stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yofyth&theme=radical&hide_border=true" alt="yofyth streak stats" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yofyth&show_icons=true&theme=radical&hide_border=true" alt="yofyth GitHub stats" height="165" />
+<img src="https://streak-stats.demolab.com?user=yofyth&theme=radical&hide_border=true" alt="yofyth streak stats" height="165" />
 
 </div>
 
