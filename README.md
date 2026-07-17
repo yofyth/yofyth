@@ -49,7 +49,8 @@ Here are some ideas to get you started:
 
 ## My Hobby
 ### Playing Compe game little bit
-![It's Me jett main](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZpaTdvM3Bkdmo0YnJocnN6Y2t3MmdvNzBqbHlzZDJ4ZTkzZzhlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IvOFcGZeDA76P6XryO/giphy.gif)
+![Uploading giphy.gif…]()
+
 
 ## My Play game with me
 <img data-importer="snake" src="https://raw.githubusercontent.com/yofyth/yofyth/snake-output/snake.svg" alt="Snake animation" />
